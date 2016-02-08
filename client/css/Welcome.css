@@ -1,0 +1,4 @@
+.button {
+  composes: btn btn-primary from 'basscss/css/basscss.css';
+  background-color: green;
+}

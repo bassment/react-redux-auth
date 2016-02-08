@@ -1,0 +1,15 @@
+.button {
+  composes: btn btn-outline mb1 black from 'basscss/css/basscss.css';
+  margin: 5px 5px;
+}
+
+.homeButton {
+  composes: btn btn-primary from 'basscss/css/basscss.css';
+  margin: 10px 5px;
+  background-color: blue;
+}
+.loginButton {
+  composes: btn btn-primary from 'basscss/css/basscss.css';
+  margin: 10px 5px;
+  background-color: purple;
+}

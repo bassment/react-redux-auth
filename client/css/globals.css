@@ -1,0 +1,10 @@
+@import 'basscss/css/basscss.css';
+
+:global
+  h1 {
+    font-weight: lighter;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
